@@ -1,3 +1,5 @@
+##This build has commented out all crashing addObserver/removeObserver code (my apps have happened to never need it anyway)
+
 # SVGKit
 
 SVGKit is a Cocoa framework for rendering SVG files natively: it's fast and powerful.
